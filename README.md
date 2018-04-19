@@ -2,8 +2,8 @@
 
 
 ## 效果截图
-<img src="https://github.com/93Qlin/shopping/blob/master/src/assets/img/index.png" width="250" height="400"> <img src="https://github.com/93Qlin/shopping/blob/master/src/assets/img/index.png" width="250" height="400">
-<img src="https://github.com/93Qlin/shopping/blob/master/src/assets/img/index.png" width="250" height="400">
+<img src="https://github.com/93Qlin/shopping/blob/master/src/assets/img/index.png" width="250" height="400"> <img src="https://github.com/93Qlin/shopping/blob/master/src/assets/img/personalcenter.png" width="250" height="400">
+<img src="https://github.com/93Qlin/shopping/blob/master/src/assets/img/goodType.png" width="250" height="400">
 
 
 
